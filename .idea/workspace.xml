@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4aa3b410-6041-42a8-a8ff-736d68e98857" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/yoll/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module1/module1/BrowserMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/BestByPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/ClassTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/ClassTaskM2Dashboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/DynamicWebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/Guru99Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/HomeworkDynamicTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/Locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/M2InteractionswithSwagLabsInventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/M2VerifyingTabVisualFeedback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/MultipleElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/PracticeAccessibilityWebPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/PracticeBrowserMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/PracticeNewToursRegistrationForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/PracticeProblemMagentoLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/RecapTablesPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/SauceDemoPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/VerifyElementAttributes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/VerifyIfDisplayedAndEnabled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/VerifyIfPresent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/WebTablePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/WebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/WebTables2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/tablePractice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/DemoQAPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/MultiSelectDropdownPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/PracticeKeys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/SelectDropdownPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/SelectDropdownPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/SelectDropdownPractice3.java" afterDir="false" />
-    </list>
+    <list default="true" id="4aa3b410-6041-42a8-a8ff-736d68e98857" name="Changes" comment="init commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,19 +24,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DemoQAPractice.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/TIME-POLICE/IdeaProjects/maven-selenium-testng-git/src/test/java/module3",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DemoQAPractice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TIME-POLICE/IdeaProjects/maven-selenium-testng-git/src/test/java/module3&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\TIME-POLICE\IdeaProjects\maven-selenium-testng-git\src\test\java\module3" />
@@ -104,6 +65,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -113,6 +81,15 @@
       <option name="presentableId" value="Default" />
       <updated>1712400370451</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1712449614179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712449614179</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
