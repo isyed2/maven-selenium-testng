@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class ClassTask {
 
-//https://magento.softwaretestingboard.com/
+    //https://magento.softwaretestingboard.com/
 //Locate below elements with xpath
 //Logo
 //Cart
