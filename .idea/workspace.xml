@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aa3b410-6041-42a8-a8ff-736d68e98857" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/CustomDropdowns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasic.intro/AssertionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasic.intro/BadApproach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasic.intro/BetterApproach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasic.intro/BetterApproachTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasic.intro/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasic.intro/OrangeHrmTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasic.intro/UnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/module3/DropdownOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/module3/DropdownTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/module3/temp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -42,27 +40,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BadApproach.executor": "Run",
-    "Application.BrowserMethods2.executor": "Run",
-    "Application.DemoQAPractice.executor": "Run",
-    "Application.UnitTest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.AssertionTest (1).executor": "Run",
-    "TestNG.AssertionTest.executor": "Run",
-    "TestNG.BetterApproach.executor": "Run",
-    "TestNG.BetterApproachTest.executor": "Run",
-    "TestNG.OrangeHrmTest.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/TIME-POLICE/IdeaProjects/maven-selenium-testng-git/src/test/java/module1",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BadApproach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BrowserMethods2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoQAPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DropdownOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DropdownTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnitTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.temp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.AssertionTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AssertionTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BetterApproach.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BetterApproachTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.OrangeHrmTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TIME-POLICE/IdeaProjects/maven-selenium-testng-git/src/test/java/module1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\TIME-POLICE\IdeaProjects\maven-selenium-testng-git\src\test\java\module1" />
@@ -73,9 +74,9 @@
       <recent name="C:\Users\TIME-POLICE\IdeaProjects\maven-selenium-testng-git\src\test\java\module2" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.AssertionTest">
-    <configuration name="CustomDropdowns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module3.CustomDropdowns" />
+  <component name="RunManager" selected="Application.DropdownTwo">
+    <configuration name="DropdownOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module3.DropdownOne" />
       <module name="maven-selenium-testng-git" />
       <extension name="coverage">
         <pattern>
@@ -87,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testngBasic.intro.UnitTest" />
+    <configuration name="DropdownTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module3.DropdownTwo" />
       <module name="maven-selenium-testng-git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testngBasic.intro.*" />
+          <option name="PATTERN" value="module3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module3.temp" />
+      <module name="maven-selenium-testng-git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,30 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrangeHrmTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="maven-selenium-testng-git" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testngBasic.intro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testngBasic.intro" />
-      <option name="MAIN_CLASS_NAME" value="testngBasic.intro.OrangeHrmTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DropdownTwo" />
+        <item itemvalue="Application.temp" />
+        <item itemvalue="Application.DropdownOne" />
         <item itemvalue="TestNG.AssertionTest" />
         <item itemvalue="TestNG.AssertionTest (1)" />
-        <item itemvalue="TestNG.OrangeHrmTest" />
-        <item itemvalue="Application.CustomDropdowns" />
-        <item itemvalue="Application.UnitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712485123462</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1712528200299</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712528200299</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
