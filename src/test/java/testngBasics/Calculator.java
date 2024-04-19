@@ -1,4 +1,4 @@
-package testngBasic.intro;
+package testngBasics;
 
 public class Calculator {
 

@@ -1,23 +1,38 @@
-package testngBasic.intro;
+package testngBasics;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.Test;
 
-public class BetterApproach {
+/*
+ * First of all problem with the old approach we have used was that we would place the scripts all in main method
+ * - This is not efficient from many standpoints
+ *
+ * Also, the if statements printing if a test passed or failed is fairly useless
+ * - We need a better approach that will let us know if tests failed or passed
+ *
+ * */
 
-    // With TestNg first we have to do is get rid of main method
-    // TestNG provides us ability to turn any method in runnable test
-    // When we create methods use either: camelCase or snake_case
-    // To make a test case runnable we need to provide annotation "@Test"
-    @Test
-    public void verifyLogoIsDisplayed() throws InterruptedException {
+
+public class BadApproach {
+
+    public static void main(String[] args) throws InterruptedException {
+
+        /*
+         * Navigate to google search page
+         * Verify that logo is displayed
+         * Verify the PageTitle is - Google
+         * */
+
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.google.com");
+
         Thread.sleep(5000);
+
+
         // Verify that logo is displayed
+
         WebElement logo = driver.findElement(By.cssSelector("img[alt=Google]"));
         boolean isLogoDisplayed = logo.isDisplayed();
 
@@ -26,13 +41,10 @@ public class BetterApproach {
         } else {
             System.out.println("LOGO Verification: FAILED");
         }
-        driver.quit();
-    }
 
-    @Test
-    public void verifyPageTitle(){
-        WebDriver driver = new ChromeDriver();
-        driver.get("https://www.google.com");
+
+        // Verify the PageTitle is - Google
+
         String actualPageTitle = driver.getTitle();
         String expectedPageTitle = "Google"; // The expected value is usually in your - ticket/user story/requirements
 
@@ -41,9 +53,9 @@ public class BetterApproach {
         } else {
             System.out.println("TITLE verification: FAILED");
         }
+
         driver.quit();
+
     }
-
-
 
 }
