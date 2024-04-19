@@ -8,7 +8,7 @@
         <!--        Inside of the test we can run multiple things: packages, classes, methods, groups-->
         <!--        When we provide the path of the package, class etc... we always start from java folder-->
         <packages>
-            <package name="testngBasics.HRMLoginTest"/>
+            <package name="testngBasics.practice"/>
         </packages>
     </test>
 </suite>

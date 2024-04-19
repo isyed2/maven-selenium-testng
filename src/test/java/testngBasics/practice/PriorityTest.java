@@ -1,4 +1,4 @@
-package testngBasics;
+package testngBasics.practice;
 
 /*
  * TestNG by default will run the test in a class in alphabetical order

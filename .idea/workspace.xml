@@ -5,22 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aa3b410-6041-42a8-a8ff-736d68e98857" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasics/AssertionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasics/CheckAnnotationAndOrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasics/DependencyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasics/HRMLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasics/PriorityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasics/SoftAssertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasic.intro/AssertionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasic.intro/BadApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/BadApproach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasic.intro/BetterApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/BetterApproach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasic.intro/BetterApproachTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/BetterApproachTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasic.intro/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasic.intro/OrangeHrmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/OrangeHrmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasic.intro/UnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/UnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasics/AssertionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/testngBasics/practice/AssertionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasics/BadApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/testngBasics/practice/BadApproach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasics/BetterApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/testngBasics/practice/BetterApproach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasics/BetterApproachTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/testngBasics/practice/BetterApproachTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasics/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/testngBasics/practice/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasics/CheckAnnotationAndOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/testngBasics/practice/CheckAnnotationAndOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasics/DependencyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/testngBasics/practice/DependencyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasics/HRMLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/testngBasics/practice/HRMLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasics/OrangeHrmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/testngBasics/practice/OrangeHrmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasics/PriorityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/testngBasics/practice/PriorityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasics/SoftAssertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/testngBasics/practice/SoftAssertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testngBasics/UnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngBasics/testngBasics/practice/UnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/configXml/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configXml/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,37 +50,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BadApproach.executor": "Run",
-    "Application.BrowserMethods2.executor": "Run",
-    "Application.DemoQAPractice.executor": "Run",
-    "Application.DropdownOne.executor": "Run",
-    "Application.DropdownTwo.executor": "Run",
-    "Application.UnitTest.executor": "Run",
-    "Application.temp.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.AssertionTest (1).executor": "Run",
-    "TestNG.AssertionTest.executor": "Run",
-    "TestNG.BetterApproach.executor": "Run",
-    "TestNG.BetterApproachTest.executor": "Run",
-    "TestNG.C:/Users/TIME-POLICE/IdeaProjects/maven-selenium-testng-git/src/test/resources/configXml/testng.xml.executor": "Run",
-    "TestNG.CheckAnnotationAndOrderTest.executor": "Run",
-    "TestNG.DependencyTest.executor": "Run",
-    "TestNG.HRMLoginTest.executor": "Run",
-    "TestNG.OrangeHrmTest.executor": "Run",
-    "TestNG.PriorityTest.executor": "Run",
-    "TestNG.SoftAssertTest.executor": "Run",
-    "TestNG.configXml.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/TIME-POLICE/IdeaProjects/maven-selenium-testng-git/src/test/java/module1",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BadApproach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BrowserMethods2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoQAPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DropdownOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DropdownTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnitTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.temp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.AssertionTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AssertionTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BetterApproach.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BetterApproachTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/TIME-POLICE/IdeaProjects/maven-selenium-testng-git/src/test/resources/configXml/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CheckAnnotationAndOrderTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DependencyTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HRMLoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.OrangeHrmTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PriorityTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SoftAssertTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.configXml.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TIME-POLICE/IdeaProjects/maven-selenium-testng-git/src/test/java/module1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\TIME-POLICE\IdeaProjects\maven-selenium-testng-git\src\test\java\module1" />
@@ -92,7 +92,7 @@
       <recent name="C:\Users\TIME-POLICE\IdeaProjects\maven-selenium-testng-git\src\test\java\module2" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.configXml">
+  <component name="RunManager" selected="TestNG.C:/Users/TIME-POLICE/IdeaProjects/maven-selenium-testng-git/src/test/resources/configXml/testng.xml">
     <configuration name="C:/Users/TIME-POLICE/IdeaProjects/maven-selenium-testng-git/src/test/resources/configXml/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="maven-selenium-testng-git" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/configXml/testng.xml" />
@@ -107,7 +107,7 @@
       <module name="maven-selenium-testng-git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testngBasic.intro.*" />
+          <option name="PATTERN" value="testngBasics.intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,7 +124,7 @@
       <module name="maven-selenium-testng-git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testngBasic.intro.*" />
+          <option name="PATTERN" value="testngBasics.intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,7 +141,7 @@
       <module name="maven-selenium-testng-git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testngBasic.intro.*" />
+          <option name="PATTERN" value="testngBasics.intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,8 +172,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.configXml" />
         <item itemvalue="TestNG.C:/Users/TIME-POLICE/IdeaProjects/maven-selenium-testng-git/src/test/resources/configXml/testng.xml" />
+        <item itemvalue="TestNG.configXml" />
         <item itemvalue="TestNG.HRMLoginTest" />
         <item itemvalue="TestNG.PriorityTest" />
         <item itemvalue="TestNG.DependencyTest" />
@@ -260,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712877907984</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1713486452123</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713486452123</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

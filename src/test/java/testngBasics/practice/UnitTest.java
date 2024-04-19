@@ -1,4 +1,4 @@
-package testngBasics;
+package testngBasics.practice;
 
 public class UnitTest {
 
